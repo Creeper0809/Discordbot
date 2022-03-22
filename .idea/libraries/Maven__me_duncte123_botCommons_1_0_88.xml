@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.duncte123:botCommons:1.0.88">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/duncte123/botCommons/1.0.88/botCommons-1.0.88.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/me/duncte123/botCommons/1.0.88/botCommons-1.0.88-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/duncte123/botCommons/1.0.88/botCommons-1.0.88-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
